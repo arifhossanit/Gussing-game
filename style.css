@@ -1,0 +1,30 @@
+div#phone{
+    position: relative;
+}
+div#phone #PngItem {
+    width:210px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+div#phone h4{
+    position: absolute;
+    left:50%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+}
+#show{
+    position: absolute;
+    left:50%;
+    top: 68%;
+    transform: translate(-50%, -50%);
+}
+#gusser{
+    position: absolute;
+    width:150px;
+    margin: auto;
+    margin-top: 10px;
+    left:50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+}
